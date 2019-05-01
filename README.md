@@ -5,5 +5,6 @@
 ### Dependencies
 > C++14 Compiler
 
-### How To Use
-> run the following command : make all
+### How To Use  
+run the following command :  
+> make all
